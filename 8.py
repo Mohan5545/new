@@ -1,3 +1,3 @@
 x=str(input())
-m=x.capitalize()
+m=x.title()
 print(m)
