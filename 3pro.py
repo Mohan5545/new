@@ -5,5 +5,4 @@ for g in range(len(n)):
     break
   if(n[g]!=m[g]):
     char=char+1
-print(char)    
-  
+print(char)
